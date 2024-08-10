@@ -1,4 +1,4 @@
-![Uploading Capture.PNG…]()
+![Capture](https://github.com/user-attachments/assets/c3b0aa34-f0f4-47bf-8d4b-b7b5e4562590)
 # Amazon_webpage
 Amazon Web Page Clone
 Project Overview-
