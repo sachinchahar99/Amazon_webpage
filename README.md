@@ -1,3 +1,4 @@
+![Uploading Capture.PNG…]()
 # Amazon_webpage
 Amazon Web Page Clone
 Project Overview-
